@@ -1,2 +1,2 @@
 # MonHunWorldSkillSetApp
-This application is intented to help hunters configure their armor sets, skills, materials, ect. before committing to griding and making their build. This application is also a learning for me. Use at your own risk.
+This application is intended to help hunters plan out new armor sets, by providing a comprehensive list of materials, price, and skill bonuses. Please understatnd that this application is a learning project for me, therefore most files will be scarce for the time being. Use at your own risk.
